@@ -1,7 +1,6 @@
-# ewd-test-app: React/Redux/EWD 3 basic testing app
+# ewd-test-app: React/Redux/EWD 3 test app
 
-Ward De Backer
-
+Ward De Backer  
 30 November 2016, Stabe nv
 
 Twitter: @wdbacker
@@ -13,14 +12,19 @@ Google Group for discussions, support etc: [http://groups.google.co.uk/group/ent
 
 - download repository zip file
 - unzip and change to app directory
-
-       npm install
-
+- install dependencies using:
+```
+npm install
+```
+- run the test app:
+```
+npm start
+```
 
 ## License
 
- Copyright (c) 2016 Stabe nv,
- Hofstade, BE.                                                      
+ Copyright (c) 2016
+ Stabe nv, Hofstade, BE.                                                      
  All rights reserved.                                                     
 
   Twitter: @wdbacker
