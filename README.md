@@ -1,6 +1,7 @@
 # ewd-test-app: React/Redux/EWD 3 basic testing app
 
 Ward De Backer
+
 30 November 2016, Stabe nv
 
 Twitter: @wdbacker
