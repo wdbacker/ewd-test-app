@@ -10,7 +10,10 @@ Google Group for discussions, support etc: [http://groups.google.co.uk/group/ent
 
 ## Installing
 
-       npm install ewd-xpress-react
+- download repository zip file
+- unzip and change to app directory
+
+       npm install
 
 
 ## License
