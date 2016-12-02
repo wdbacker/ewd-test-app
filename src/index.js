@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import { createStore, applyMiddleware, compose } from 'redux';
 import thunk from 'redux-thunk';
 import { Provider } from 'react-redux';
-import { EWD, EWDProvider } from './react-ewd';
+import { EWD, EWDProvider } from 'react-ewd';
 import App from 'components/App';
 import Spinner from 'react-spinner';
 import reducers from './reducers';
